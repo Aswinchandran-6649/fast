@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    overflow-x: hidden;
+}
+
+.links:hover{
+    color: brown;
+}
+.nav-item .nav-link:hover{
+        color: red;
+        text-decoration: underline;
+}

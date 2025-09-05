@@ -11,5 +11,5 @@ body{
 }
 .nav-item .nav-link:hover{
         color: red;
-        text-decoration: underline;
+        text-decoration: none;
 }
